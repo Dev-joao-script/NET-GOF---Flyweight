@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\bin\Debug\net5.0\Flyweight_Pratico.exe
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\bin\Debug\net5.0\Flyweight_Pratico.deps.json
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\bin\Debug\net5.0\Flyweight_Pratico.runtimeconfig.json
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\bin\Debug\net5.0\Flyweight_Pratico.runtimeconfig.dev.json
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\bin\Debug\net5.0\Flyweight_Pratico.dll
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\bin\Debug\net5.0\ref\Flyweight_Pratico.dll
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\bin\Debug\net5.0\Flyweight_Pratico.pdb
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\obj\Debug\net5.0\Flyweight_Pratico.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\obj\Debug\net5.0\Flyweight_Pratico.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\obj\Debug\net5.0\Flyweight_Pratico.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\obj\Debug\net5.0\Flyweight_Pratico.AssemblyInfo.cs
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\obj\Debug\net5.0\Flyweight_Pratico.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\obj\Debug\net5.0\Flyweight_Pratico.dll
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\obj\Debug\net5.0\ref\Flyweight_Pratico.dll
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\obj\Debug\net5.0\Flyweight_Pratico.pdb
+D:\_serie_design_patterns\2__Estruturais\5_Flyeweight\Flyweight_Pratico\Flyweight_Pratico\obj\Debug\net5.0\Flyweight_Pratico.genruntimeconfig.cache
